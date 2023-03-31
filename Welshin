@@ -1,0 +1,4 @@
+Default: false
+Type: Boolean
+
+Install dev-dependencies along with packages.
